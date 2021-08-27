@@ -1,0 +1,6 @@
+node_modules/
+output.json
+mock-*.js
+mock*.txt
+src/service/log*
+/log
