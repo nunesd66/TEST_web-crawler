@@ -11,7 +11,7 @@ API de web crawler configurada para pesquisar páginas de tecnologias e estrutur
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-rodando-o-projeto">Rodando o Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rotating_light-não-funciona">Projeto não funciona?</a>
+  <a href="#rotating_light-não-funciona-">Projeto não funciona?</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
